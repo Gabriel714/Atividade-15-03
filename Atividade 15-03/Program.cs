@@ -11,6 +11,7 @@ namespace Atividade_15_03
         static void Main(string[] args)
         {
             Console.WriteLine("Hoje é sexta");
+            Console.WriteLine("Amanhã é sábado");
         }
 
     }

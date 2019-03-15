@@ -13,6 +13,7 @@ namespace Atividade_15_03
             Console.WriteLine("Hoje é sexta");
             Console.WriteLine("Amanhã é sábado");
             Console.WriteLine("Depois de amanhã é domingo");
+            Console.WriteLine("Depois de depois de amanhã é segunda");
         }
 
     }
